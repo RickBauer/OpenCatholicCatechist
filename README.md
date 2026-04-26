@@ -1,0 +1,1 @@
+OpenCatholicCatechist is an open-source catechetical formation project designed for global adaptation, translation, and local delivery. Technical assets and adaptable instructional materials are released under Apache 2.0 unless otherwise noted. Core doctrinal content and official teaching structures will be governed by a separate doctrinal-review and approval process.
